@@ -1,5 +1,5 @@
 # IM
-Predictor de Imágenes medicas enfocado a ecografías del cerebro, clasificación en T1, T2 y flair
+Predictor de Imágenes medicas enfocado a radiografías del cerebro, clasificación en T1, T2 y flair
 
 Se ha realizado con tensorflow 2.12 y python 3.9 o superior.
 
